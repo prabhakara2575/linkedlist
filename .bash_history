@@ -637,3 +637,321 @@ terminate
 gedit new.c
 gedit new.py
 gedit new.c
+GEDIT NEW.C
+gedit new.c
+mamalloc
+man malloc
+man alloc
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+dd
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+./new.c
+./new
+varma
+gedit new.c
+cc new.c-o new
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+qwer.c
+new.c
+newvc
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+gedit new.c
+cc new.c -o new
+./new
+gedit new.c
+cc new.c -o new
+./new
+cc new.c -o new
+./new
+gedit new.c
+./new
+gedit new.c
+CLEAR
+clear
+./new
+gedit new.c
+valygrind
+valgrind
+sudo apt -cache search valgrind
+sudo apt install valgrind
+valgrind
+--help
+--help valgrind
+valgrind help
+valgrind
+valgrind new
+valgrind new.c
+gedit new1.c
+cc new1.c -o new1
+gedit new1.c
+cc new1.c -o new1
+gedit new1.c
+cc new1.c -o new1
+valgrind ./new
+gedit new1.c
+cc new1.c -o new1
+valgrind ./new
+cc new1.c -o new1
+valgrind ./new1
+gedit new2.c
+cc new2.c -o new2
+gedit new2.c
+cc new2.c -o new2
+gedit new2.c
+cc new2.c -o new2
+valgrind ./new2
+-v
+leak-check
+leak-check=./new2
+--leak-check= ./new2
+gedit new3.c
+cc new.3
+cc new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+./new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+./new3
+cc new3.c -o new3
+./new3
+gedit new3.c
+splint
+t
+lint
+link
+link --help
+link new.c new1.c
+link new.c new5.c
+
+link --help
+--help
+--version
+link --version
+splint
+sudo apt install splint
+splint --hel[p
+splint --help
+splint -help new.c
+splint -help new
+gedit ne
+gedit new3.c
+valgrind ./new3.c
+valgrind ./new3
+splint -help flags all
+splint -help p
+git status
+gedit new3.c
+cc new3.c
+cc new3.c -o new3
+./new3
+splint new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+splint
+splint new.c
+see splint -help parseerrors
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+splint
+splint -help
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+1
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+valgrind ./new3
+gedit new3.c
+cc new3.c -o new3
+./new3
+gedit new3.c
+gedit new.c
+gedit new2.c
+gedit new1.c
+clear
+gedit new4.c
+cc new4.c
+gedit new4.c
+cc new4.c
+gedit new4.c
+cc new4.c
+gedit new4.c
+cc new4.c
+gedit new4.c
+cc new4.c
+cc new4.c -o new4
+./new4
+gedit new4.c
+cc new4.c -o new4
+./new4
+git status
+git add .
+git status
+git add .
+git status
+git add new.c
+git add . new.c
+git commit
+git status new.c
+git commit -m "my second commiot"
+git config global user. bh.prabhakaravarma4@gmail.com
+git config --global user. bh.prabhakaravarma4@gmail.com
+git config --global user .bh.prabhakaravarma4@gmail.com
+git config --global .bh.prabhakaravarma4@gmail.com
+git config --global user. Github.2575
+git config --global  Github.2575
+git commit
+git commit new.c
+git log
+git config --global user "bh.prabhakaravarma4@gmail.com"
+git config --global "bh.prabhakaravarma4@gmail.com"
+git config --global user "prabhakara2575"
+git commit -a
+git push
+git log
+git commit 7ed8dd946b1991c38d7e3dfca70d938befad94fd
+commit 7ed8dd946b1991c38d7e3dfca70d938befad94fd
+git push -o origin master
+git push -u origin master
+git status new.c
+git add . new.c
+git status new.c
+git add .
+git init
+git add .
+gitstatus
+git status
+git commit "i am still learning"
+git commit "my second summit" 
+git commit "my first commit"
+git commit -m "my first commit"
+git log
+git remote add origin  https://github.com/prabhakara2575/linkedlist.git
+git push -u origin master
+clear
+close
+gclose
+sudo apt install pubg
+clear
+quit
+quiz
+exit
