@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Vertical Gradient</name>
+    <filename>(none)</filename>
+    <options>none</options>
+    <shade_type>vertical</shade_type>
+    <pcolor>#efef29292929</pcolor>
+    <scolor>#000000000000</scolor>
+  </wallpaper>
+</wallpapers>
