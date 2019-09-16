@@ -1026,7 +1026,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/template.cpp" added="2019-09-16T06:33:58Z" modified="2019-09-16T06:34:23Z" visited="2019-09-16T06:33:59Z">
+  <bookmark href="file:///home/student/template.cpp" added="2019-09-16T06:33:58Z" modified="2019-09-16T06:45:30Z" visited="2019-09-16T06:33:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-c++src"/>
@@ -1034,7 +1034,20 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-16T06:34:23Z" count="9"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-16T06:45:30Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/nextone.cpp" added="2019-09-16T06:42:21Z" modified="2019-09-16T06:43:01Z" visited="2019-09-16T06:42:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-16T06:43:01Z" count="10"/>
         </bookmark:applications>
       </metadata>
     </info>
