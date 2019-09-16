@@ -1,0 +1,21 @@
+Add-ons=%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:45.0.2,loop%40mozilla.org:1.1.14,langpack-en-ZA%40firefox.mozilla.org:45.0.2,langpack-en-GB%40firefox.mozilla.org:45.0.2
+TelemetryEnvironment={"build":{"applicationId":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","applicationName":"Firefox","architecture":"x86","buildId":"20160414065608","version":"45.0.2","vendor":"Mozilla","platformVersion":"45.0.2","xpcomAbi":"x86-gcc3","hotfixVersion":null},"partner":{"distributionId":"canonical","distributionVersion":"1.0","partnerId":null,"distributor":null,"distributorChannel":null,"partnerNames":[]},"system":{"memoryMB":1000,"virtualMaxMB":null,"cpu":{"count":1,"cores":1,"vendor":"GenuineIntel","family":6,"model":60,"stepping":3,"l2cacheKB":256,"l3cacheKB":3072,"speedMHz":null,"extensions":["hasMMX","hasSSE","hasSSE2","hasSSE3","hasSSSE3","hasSSE4_1","hasSSE4_2"]},"os":{"name":"Linux","version":"4.4.0-21-generic","locale":"en-IN"},"hdd":{"profile":{"model":null,"revision":null},"binary":{"model":null,"revision":null},"system":{"model":null,"revision":null}},"gfx":{"D2DEnabled":null,"DWriteEnabled":null,"adapters":[{"description":"VMware, Inc. -- Gallium 0.4 on SVGA3D; build: RELEASE;  LLVM;","vendorID":"VMware, Inc.","deviceID":"Gallium 0.4 on SVGA3D; build: RELEASE;  LLVM;","subsysID":null,"RAM":null,"driver":null,"driverVersion":"3.0 Mesa 11.2.0","driverDate":null,"GPUActive":true}],"monitors":[],"features":{"compositor":"basic"}}},"settings":{"blocklistEnabled":true,"e10sEnabled":false,"telemetryEnabled":false,"isInOptoutSample":false,"locale":"en-US","update":{"channel":"release","enabled":true,"autoDownload":true},"userPrefs":{"browser.cache.disk.capacity":358400,"browser.newtabpage.enhanced":true},"addonCompatibilityCheckEnabled":true,"isDefaultBrowser":false},"profile":{"creationDate":19280},"addons":{"activeAddons":{"loop@mozilla.org":{"blocklisted":false,"description":"Web sharing for Firefox","name":"Firefox Hello Beta","userDisabled":false,"appDisabled":false,"version":"1.1.14","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16905,"updateDay":16905}},"theme":{"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","blocklisted":false,"description":"The default theme.","name":"Default","userDisabled":false,"appDisabled":false,"version":"45.0.2","scope":4,"foreignInstall":false,"hasBinaryComponents":false,"installDay":16905,"updateDay":16905},"activePlugins":[],"activeGMPlugins":{"gmp-gmpopenh264":{"version":"1.6","userDisabled":false,"applyBackgroundUpdates":1}},"activeExperiment":{},"persona":null}}
+SafeMode=0
+ProductName=Firefox
+Theme=classic/1.0
+Vendor=Mozilla
+InstallTime=1665870899
+ReleaseChannel=release
+Notes=OpenGL: VMware, Inc. -- Gallium 0.4 on SVGA3D; build: RELEASE;  LLVM; -- 3.0 Mesa 11.2.0 -- texture_from_pixmap\n
+Version=45.0.2
+ServerURL=https://crash-reports.mozilla.com/submit?id={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&version=45.0.2&buildid=20160414065608
+useragent_locale=en-US
+EMCheckCompatibility=true
+BuildID=20160414065608
+ProductID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+AddonsShouldHaveBlockedE10s=0
+CrashTime=1568375055
+StartupTime=1568375039
+ProcessType=content
+AddonsShouldHaveBlockedE10s=0
+URL=about:blank

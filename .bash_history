@@ -955,3 +955,310 @@ clear
 quit
 quiz
 exit
+gedit new6.c
+cc new6.c
+gedit new6.c
+cc new6.c
+cc new6.c -o new6
+./new6
+open new.c
+open
+get new.c
+got
+g00
+goo
+gedit new6.c
+pubg
+gedit new6.c
+cc new6.c
+gedit new6.c
+cc new6.c
+cc new6.c -o new6
+./new6
+gedit new6.c
+gedit new6.c new7.c
+gedit new.c new1.c new2.c new3.c new4.c
+gedit new6.c
+git init
+git status
+git add .
+git status
+git commit -m "my third summit".c
+git log
+gedit new.c
+gedit new6.c
+g++
+gedit queue.c
+cc queue1.ccc
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+cc queue1.c -o queue1
+./queue1
+gedit queue1.c
+cc queue1.c -o queue1
+gedit queue1.c
+cc queue1.c -o queue1[A
+./queue1
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+cc queue1.c -o queue1
+./queue1
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+gedit queue1.c
+cc queue1.c
+cc queue1.c -o queue1
+./queue1
+gedit queue.c
+cc queue.c
+cc queue.c -o queue
+./queue
+gedit queue1.c
+cc queue1.c -o queue1
+./queue1
+gedit stack.c
+cc stack.c
+cc stack.c -o stack
+./stack
+gedit stack.c
+cc stack.c -o stack
+gedit stack.c
+cc stack.c -o stack
+./stack
+VALGRING STAC.C
+valgrind stack.c
+valgrind ./stack
+-v
+return -v
+valgrind -v ./stack
+pubg
+sudo apt install pubg
+g++ 
+g++qwer.c
+g++ -v
+g++ qwer.c
+g++ -v
+g++ file.cpp
+gedit file.cpp
+g++ -v
+gedit queue.c
+gcc -E queue.c first.i
+cat first.i
+gcc -E queue.c -o first.i
+cat first.i
+less first.i
+cat first.i
+gcc -E-v queue.c -o first.i
+gcc -E -v queue.c -o first.i
+gcc -S -v queue.c -o first.i
+cat first.
+cat first.S
+gcc -S -v queue.c -o first.s
+cat first.S
+cat first.s
+gcc -c first.c -o first.o
+./first.o
+./first
+gcc -C first.c -o first.o
+./first
+./first.o
+./first
+gcc -c first.c -o first.o
+./first.o
+chmod u+x first.o
+./chmod u+x first.o
+chord u+x first.o
+chnod u+x first.o
+chmod u+x first.o
+./first,o
+./first.o
+objdump -D first.o
+./first.0
+./first.o
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+./first
+g++ first.cpp -o first
+./first
+g++ first.cpp -o first
+gedit first.cpp
+./first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+pubg
+q
+sudo apt install python
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+gedit first.cpp
+g++ first.cpp -o first
+./first
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxya
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqerstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+gedit first.c
+gedit first.cpp
+gedit p1.c
+cc p1.c
+gedit p1.c
+cc p1.c
+gedit p1.c
+cc p1.c
+gedit p1.c
+cc p1.c
+GEDIT P2.CPP
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+./first
+5 4 5
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+gedit p2.cpp
+g++ p2.cpp -o first
+./first
+gedit p2.cpp
+gedit p3.cpp
+g++ p3.cpp -o first
+./first
+gedit p4.cpp
+g++ p4.cpp -o first
+gedit p4.cpp
+g++ p4.cpp -o first
+gedit p4.cpp
+g++ p4.cpp -o first
+gedit p4.cpp
+g++ p4.cpp -o first
+gedit p4.cpp
+g++ p4.cpp -o first
+./first
+gedit p4.cpp
+gedit p5.cpp
+g++ p5.cpp -o first
+./first
+gedit p5.cpp
+gedit p6.cpp
+g++ p6.cpp -o first
+gedit p6.cpp
+g++ p6.cpp -o first
+gedit p6.cpp
+g++ p6.cpp -o first
+gedit p6.cpp
+g++ p6.cpp -o first
+./first
+gedit p6.cpp
+gedit p7.cpp
+g++ p7.cpp -o first
+gedit p6.cpp
+gedit p7.cpp
+g++ p7.cpp -o first
+gedit p7.cpp
+g++ p7.cpp -o first
+./first
+gedit p8.cpp
+gedit p7.cpp
+gedit p8.cpp
+g++ p8.cpp -o first
+gedit p8.cpp
+g++ p8.cpp -o first
+./first
+gedit p8.cpp
+gedit p9.cpp
+g++ p9.cpp -o first
+./first
+gedit p9.cpp
+gedit p10.cpp
+g++ p10.cpp -o first
+gedit p10.cpp
+g++ p10.cpp -o first
+gedit p10.cpp
+g++ p10.cpp -o first
+./first
+gedit p10.cpp
+gedit p11.cpp
+g++ p11.cpp -o first
+gedit p11.cpp
+g++ p11.cpp -o first
+./first
+gedit p12.cpp
+g++ p12.cpp -o first
+./first
+gedit sep14.cpp
